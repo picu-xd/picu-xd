@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Xerotic! 
 
-<!--
-**picu-xd/picu-xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Automation Enthusiast | Python Expert | Mobile & Web Developer
 
-Here are some ideas to get you started:
+I love building smart tools and automated systems. Currently focused on creating high-performance web applications and mobile experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+- **Languages:** Python, JavaScript, TypeScript
+- **Web:** React, Node.js, HTML5, CSS3
+- **Mobile:** Flutter, React Native
+- **Automation:** Selenium, Playwright, Scrapy
+
+---
+
+### 📊 Stats
+![Xerotic's GitHub stats](https://github-readme-stats.vercel.app/api?username=picu-xd&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=picu-xd&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with me
+[![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/picu-xd)
+
+---
