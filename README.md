@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://static.prod-images.emergentagent.com/jobs/19ca68f4-0316-4534-bd47-12a6983c0e8c/images/cd25646f79586ab314f894ee46af3a4ba2ffade2355945a90e2db30ed1054644.png" alt="Xerotic Banner" width="100%" />
+  <img src="https://customer-assets.emergentagent.com/wingman/19ca68f4-0316-4534-bd47-12a6983c0e8c/attachments/3749eaf3693d4a1a8d8b6fef1aab292f_xerotic_banner.png" alt="Xerotic Automation Architect" width="100%" />
 </p>
 
 <p align="center">
