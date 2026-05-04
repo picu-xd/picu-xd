@@ -1,57 +1,70 @@
-<h1 align="center">🚀 Hello World! I'm Xerotic</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;Automation+Architect;Full-Stack+Web+%26+Mobile;Smart+Solutions+Creator" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=SYSTEM%20AUTOMATION%20ACTIVE&fontSize=40&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=picu-xd&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats" height="180" />
+  <a href="https://github.com/picu-xd">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIATING+XEROTIC+PROTOCOL...;AUTOMATING+THE+FUTURE...;FULL-STACK+DEVELOPER+DETECTED;SYSTEMS+ARCHITECT+ONLINE" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🧐 About Me
-- 🔭 I’m currently working on **Live Data Scrapers & Automation Bots**.
-- 🌱 Learning more about **Scalable Cloud Infrastructures**.
-- 💬 Ask me about **Python, Selenium, React, or Flutter**.
-- ⚡ Fun fact: I believe everything that can be automated, should be automated!
+### 🖥️ [ SYSTEM_STATUS: ONLINE ]
+
+```bash
+$ whoami
+> Xerotic: Automation Enthusiast | Python Expert | Web & Mobile Developer
+$ current_mission
+> "Building the next generation of automated systems and smart applications."
+$ status
+> Scanning for new challenges...
+```
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### ⚡ [ AUTOMATION_DASHBOARD ]
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=picu-xd&show_icons=true&theme=neon&hide_border=true&include_all_commits=true" alt="Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=picu-xd&theme=neon&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=picu-xd&layout=compact&theme=neon&hide_border=true" alt="Langs" />
+</p>
+
+---
+
+### 🛠️ [ TECH_STACK_MODULES ]
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,flutter,nodejs,mongodb,mysql,docker,git,bash,selenium,playwright,postman" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,react,nextjs,flutter,nodejs,mongodb,mysql,docker,git,bash,selenium,playwright&perline=8" />
   </a>
 </p>
 
 ---
 
-### 📈 My GitHub Activity
+### 🛰️ [ DATA_FLOW_VISUALIZATION ]
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=picu-xd&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=picu-xd&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/master/assets/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
 ---
 
-### 📫 Let's Connect!
-<p align="left">
+### 🔗 [ ESTABLISH_CONNECTION ]
+
+<p align="center">
   <a href="https://facebook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/CONNECTION_ESTABLISHED-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/TRANSMIT_DATA-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
 </p>
