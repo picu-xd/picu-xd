@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=SYSTEM%20AUTOMATION%20ACTIVE&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://static.prod-images.emergentagent.com/jobs/19ca68f4-0316-4534-bd47-12a6983c0e8c/images/cd25646f79586ab314f894ee46af3a4ba2ffade2355945a90e2db30ed1054644.png" alt="Xerotic Banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/picu-xd">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIATING+XEROTIC+PROTOCOL...;AUTOMATING+THE+FUTURE...;FULL-STACK+DEVELOPER+DETECTED;SYSTEMS+ARCHITECT+ONLINE" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIATING+XEROTIC+PROTOCOL...;AUTOMATING+THE+FUTURE...;FULL-STACK+DEVELOPER+DETECTED;SYSTEMS+ARCHITECT+ONLINE" alt="Typing SVG" />
 </p>
 
 ---
